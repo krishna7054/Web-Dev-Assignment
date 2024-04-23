@@ -16,7 +16,7 @@ JavaScript
 Clone the repository to your local machine:
 
 ```bash
-  git clone https://github.com/your-username/project-name.git
+  git clone https://github.com/krishna7054/Web-Dev-Assignment.git
 ```
 # Install dependencies:
 
